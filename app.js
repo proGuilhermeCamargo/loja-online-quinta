@@ -1,5 +1,5 @@
 
 
 export const App = () => {
-    return "Inicio do nosso aplicativo"
+    return "Desenvolvimento da tela de login"
 }
