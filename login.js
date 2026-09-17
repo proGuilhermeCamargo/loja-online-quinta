@@ -2,5 +2,5 @@
 
 
 export const login = () => {    
-    return "Tela de login 2"
+    return "Alterao do dev 2"
 }
